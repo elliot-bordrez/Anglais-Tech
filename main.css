@@ -1,0 +1,18 @@
+.haut
+{
+    height: 50px;
+    width: 100%;
+    background-color: deepskyblue;
+};
+.align-text
+{
+    text-align: center;
+};
+.cote
+{
+    float: left;
+}
+.principale
+{
+    float: right;
+}
