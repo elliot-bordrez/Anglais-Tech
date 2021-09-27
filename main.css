@@ -1,21 +1,20 @@
-.haut
+#haut
 {
     height: 50px;
     width: 100%;
     background-color: deepskyblue;
 };
-.align-text
+#align-text
 {
     text-align: center;
+    width: 100%;
 };
-.cote
+#cote
 {
+    margin: 0 10;
     float: left;
-}
-.principale
-{
-    float: right;
-    margin-top: -662px;
+    width: 100%;
 }
 
 
+ 
