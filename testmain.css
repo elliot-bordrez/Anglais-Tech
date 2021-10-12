@@ -12,16 +12,16 @@
 .divlongue
 {
     width: 100%;
-    background-color: burlywood;
+    
     
 }
 #cote
 {
-    background-color: brown;
+    background-color: gray;
     width:  300px;
     float: left;
     margin: 0 20px 20px 0;
-    min-height: 770px;
+    min-height: 810px;
     box-sizing: border-box;
    
    
