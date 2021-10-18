@@ -1,25 +1,14 @@
+body
+{
+    background-color: moccasin;
+}
 .haut
 {
-    height: 50px;
     width: 100%;
-    background-color: deepskyblue;
-};
-#align-text
-{
-    text-align: center;
-    width: 100%;
-};
-#cote
-{
-    background-color: rgb(0, 0, 0);
-    
-    width:  500px;
-    float: left;
-margin: 0 10px 10px 0;
-}
-.espace
-{
-    text-indent: 1%;
+    background-color: lightseagreen;
+    min-height: 5%;
+     
+
 }
 #page
 {
@@ -27,9 +16,36 @@ margin: 0 10px 10px 0;
 }
 .divlongue
 {
-    background-color: brown;
     width: 100%;
     
+    
 }
-
- 
+#cote
+{
+    background-color: gray;
+    width:  300px;
+    float: left;
+    margin: 0 20px 20px 0;
+    min-height: 847px;  
+    box-sizing: border-box;
+}
+.espace
+{
+    text-indent: 1%;
+    line-height: 2em;
+}
+.align-text
+{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+html,body 
+{
+     height:100%;
+}
+@media all and (max-width:480px)
+{
+    .divlongue
+    #cote
+}
