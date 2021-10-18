@@ -1,4 +1,4 @@
-#haut
+.haut
 {
     height: 50px;
     width: 100%;
@@ -11,10 +11,25 @@
 };
 #cote
 {
-    margin: 0 10;
+    background-color: rgb(0, 0, 0);
+    
+    width:  500px;
     float: left;
-    width: 250px;
+margin: 0 10px 10px 0;
 }
-
+.espace
+{
+    text-indent: 1%;
+}
+#page
+{
+    width: 100%;
+}
+.divlongue
+{
+    background-color: brown;
+    width: 100%;
+    
+}
 
  
